@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <p><a href="https://github.com/Rishy-2021" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ritesh-purwar-9223a9195/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 
-<p><a href="https://github.com/hrnbot" target="_blank"><img src="https://github.com/hrnbot/hrnbot/workflows/Progress%20Bar%20CI/badge.svg"/></a></p>
+
 <p>⏰ Updated on Sat, 29 Sep 2022 18:08:51 GMT</p>
 
 -----
