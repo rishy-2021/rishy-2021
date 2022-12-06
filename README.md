@@ -34,16 +34,15 @@ Here are some ideas to get you started:
   </thead>
   <tbody>
     <tr>
-	    <td><a href="https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning"><b>Basic-Mathematics-for-Machine-Learning</b></a></td>
-
-         </tr>
-	  <tr>
-	<td><a href="https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning"><b>Basic-Mathematics-for-Machine-Learning</b></a></td>	  
-	  </tr>
-	  <tr>
-		  <td><a href="https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning"><b>Basic-Mathematics-for-Machine-Learning</b></a></td>
-
-		  </>
+	 <td><a href="https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning"><b>Basic-Mathematics-for-Machine-Learning</b></a></td>
+    </tr>
+	  
+<tr>
+  <td><a href="https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning"><b>Basic-Mathematics-for-Machine-Learning</b></a></td>	  
+</tr>
+	
+	  
+		 
   </tbody>
 </table>
 
