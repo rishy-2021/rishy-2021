@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,  Ritesh Purwar here</h1>
 <p>
 
-⏳ Year progress { ███████████████▁▁▁▁▁ } 70.05 % I still have time to learn more Techs this year
+
 
 </p>
 
