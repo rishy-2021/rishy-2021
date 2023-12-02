@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   </thead>
   <tbody>
     <tr>
-	 <td><a href="https://github.com/Rishy-2021/QNA_SITE_FRONTEND"><b>QNA_SITE</b></a></td>
+	 <td><a href="https://github.com/rishy-2021/Forume"><b>forume</b></a></td>
     </tr>
 	  
 <tr>
