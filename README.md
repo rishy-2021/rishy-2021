@@ -34,14 +34,14 @@ Here are some ideas to get you started:
   </thead>
   <tbody>
     <tr>
-	 <td><a href="https://github.com/rishy-2021/Forume"><b>forume</b></a></td>
+	 <td><a href="https://pdf-insight-extracter.vercel.app"><b>Pdf Insights Extracter</b></a></td>
     </tr>
 	  
 <tr>
-  <td><a href="https://github.com/Rishy-2021/ONLINE_EXAM_FRONTEND"><b>ONLINE_EXAM_WebApp</b></a></td>	  
+  <td><a href="https://cre-work.vercel.app"><b>Task Management App</b></a></td>	  
 </tr>
 	  <tr>
-  <td><a href="https://github.com/Rishy-2021/CMO"><b>CMO</b></a></td>	  
+  <td><a href="https://snapwiz.vercel.app"><b>Snapwiz - AI Headshot Generater(Front-end)</b></a></td>	  
 </tr>
 	
 	  
